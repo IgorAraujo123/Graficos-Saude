@@ -1,6 +1,6 @@
 # Graficos PowerBI
 ## Introdução:
-Nesse projeto temos gráficos feitos em power BI para apoio ao software desenvolvido chamado Cognitive focado na área de saúde mais precisamente na área de psicologia
+Gráficos feitos em power BI para apoio ao software desenvolvido chamado Cognitive focado na área de saúde mais precisamente na área de psicologia
 
 ## Objetivo:
 Análisar Dados em busca de inconsistências<br>
