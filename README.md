@@ -16,5 +16,5 @@ Storytealling com os dados
 ## Resultado:
 Ajudar os profissonar a ter uma ideia mais detalhada<br>
 O profissonal pode se apoiar no gráfico para análise do paciente<br>
-Pode ajudar na tomada de decisão do paciente
+Pode ajudar na tomada de decisão de abordagem com o paciente
 
